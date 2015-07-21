@@ -13,6 +13,10 @@
 		35EC55FB1B5DF94400AE5C85 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 35EC55FA1B5DF94400AE5C85 /* Images.xcassets */; };
 		35EC55FE1B5DF94400AE5C85 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 35EC55FC1B5DF94400AE5C85 /* LaunchScreen.xib */; };
 		35EC560A1B5DF94400AE5C85 /* chequepleaseTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35EC56091B5DF94400AE5C85 /* chequepleaseTests.swift */; };
+		35EC56141B5E104C00AE5C85 /* 33887.png in Resources */ = {isa = PBXBuildFile; fileRef = 35EC56131B5E104C00AE5C85 /* 33887.png */; };
+		35EC56161B5E105100AE5C85 /* payroll.png in Resources */ = {isa = PBXBuildFile; fileRef = 35EC56151B5E105100AE5C85 /* payroll.png */; };
+		35EC56181B5E10A500AE5C85 /* raphael_dollar-sign_simple-black_512x512.png in Resources */ = {isa = PBXBuildFile; fileRef = 35EC56171B5E10A500AE5C85 /* raphael_dollar-sign_simple-black_512x512.png */; };
+		35EC561C1B5E127200AE5C85 /* tip_1.png in Resources */ = {isa = PBXBuildFile; fileRef = 35EC561B1B5E127200AE5C85 /* tip_1.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +40,10 @@
 		35EC56031B5DF94400AE5C85 /* chequepleaseTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = chequepleaseTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		35EC56081B5DF94400AE5C85 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		35EC56091B5DF94400AE5C85 /* chequepleaseTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = chequepleaseTests.swift; sourceTree = "<group>"; };
+		35EC56131B5E104C00AE5C85 /* 33887.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 33887.png; sourceTree = "<group>"; };
+		35EC56151B5E105100AE5C85 /* payroll.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = payroll.png; sourceTree = "<group>"; };
+		35EC56171B5E10A500AE5C85 /* raphael_dollar-sign_simple-black_512x512.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "raphael_dollar-sign_simple-black_512x512.png"; sourceTree = "<group>"; };
+		35EC561B1B5E127200AE5C85 /* tip_1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = tip_1.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +85,10 @@
 		35EC55F01B5DF94400AE5C85 /* chequeplease */ = {
 			isa = PBXGroup;
 			children = (
+				35EC561B1B5E127200AE5C85 /* tip_1.png */,
+				35EC56171B5E10A500AE5C85 /* raphael_dollar-sign_simple-black_512x512.png */,
+				35EC56151B5E105100AE5C85 /* payroll.png */,
+				35EC56131B5E104C00AE5C85 /* 33887.png */,
 				35EC55F31B5DF94400AE5C85 /* AppDelegate.swift */,
 				35EC55F51B5DF94400AE5C85 /* ViewController.swift */,
 				35EC55F71B5DF94400AE5C85 /* Main.storyboard */,
@@ -193,8 +205,12 @@
 			buildActionMask = 2147483647;
 			files = (
 				35EC55F91B5DF94400AE5C85 /* Main.storyboard in Resources */,
+				35EC56181B5E10A500AE5C85 /* raphael_dollar-sign_simple-black_512x512.png in Resources */,
+				35EC56141B5E104C00AE5C85 /* 33887.png in Resources */,
 				35EC55FE1B5DF94400AE5C85 /* LaunchScreen.xib in Resources */,
+				35EC56161B5E105100AE5C85 /* payroll.png in Resources */,
 				35EC55FB1B5DF94400AE5C85 /* Images.xcassets in Resources */,
+				35EC561C1B5E127200AE5C85 /* tip_1.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
